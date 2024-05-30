@@ -10,5 +10,7 @@ return {
   { import = "astrocommunity.colorscheme.gruvbox-nvim" },
   { import = "astrocommunity.bars-and-lines.lualine-nvim" },
   { import = "astrocommunity.markdown-and-latex.peek-nvim"},
+  { import = "astrocommunity.debugging.nvim-dap-virtual-text"},
+  { import = "astrocommunity.bars-and-lines.dropbar-nvim"},
   -- import/override with your plugins folder
 }
