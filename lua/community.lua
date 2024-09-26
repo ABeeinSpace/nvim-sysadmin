@@ -13,5 +13,6 @@ return {
   { import = "astrocommunity.recipes.astrolsp-no-insert-inlay-hints"},
   { import = "astrocommunity.recipes.telescope-nvchad-theme" },
   { import = "astrocommunity.recipes.vscode-icons" },
+  { import = "astrocommunity.markdown-and-latex.markview-nvim"},
   -- import/override with your plugins folder
 }
