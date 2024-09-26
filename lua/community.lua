@@ -6,11 +6,12 @@
 return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.lua" },
-  { import = "astrocommunity.colorscheme.nordic-nvim" },
-  { import = "astrocommunity.colorscheme.gruvbox-nvim" },
+  { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.bars-and-lines.lualine-nvim" },
   { import = "astrocommunity.markdown-and-latex.peek-nvim"},
-  { import = "astrocommunity.debugging.nvim-dap-virtual-text"},
   { import = "astrocommunity.bars-and-lines.dropbar-nvim"},
+  { import = "astrocommunity.recipes.astrolsp-no-insert-inlay-hints"},
+  { import = "astrocommunity.recipes.telescope-nvchad-theme" },
+  { import = "astrocommunity.recipes.vscode-icons" },
   -- import/override with your plugins folder
 }
